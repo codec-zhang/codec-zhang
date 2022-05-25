@@ -11,6 +11,12 @@
  - 张洪彬/男/1988
  - 博士/南京理工大学
  - 6年工作经验
+# 教育经历
+香港理工大学  研究助理  2014.10 - 2016.04 主修：视频编解码研究
+
+南京理工大学  博士      2011.09 - 2017.06 主修：信息与通信系统
+
+东北农业大学  学士      2007.09 - 2011.07 主修：数学
 
 # 工作经历
 
@@ -44,3 +50,15 @@
 - 计算机语言：C/C++、python
 - 语言：英文听说读写
       
+# Publication
+
+C. -H. Fu, Y. -L. Chan, **H. -B. Zhang**, S. H. Tsang and M. -T. Xu, "Efficient Depth Intra Frame Coding in 3D-HEVC by Corner Points," in **IEEE Transactions on Image Processing**, vol. 30, pp. 1608-1622, 2021, doi: 10.1109/TIP.2020.3046866.
+
+**H. -B. Zhang**, C. Fu, Y. Chan, S. Tsang and W. Siu, "Probability-Based Depth Intra-Mode Skipping Strategy and Novel VSO Metric for DMM Decision in 3D-HEVC," in **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 28, no. 2, pp. 513-527, Feb. 2018, doi: 10.1109/TCSVT.2016.2612693.
+
+
+**H. -B. Zhang**, C. -H. Fu, Y. -L. Chan, S. -H. Tsang and W. -C. Siu, "Efficient depth intra mode decision by reference pixels classification in 3D-HEVC," 2015 IEEE International Conference on Image Processing (**ICIP**), 2015, pp. 961-965, doi: 10.1109/ICIP.2015.7350942.
+
+**H. -B. Zhang**, Y. -L. Chan, C. -H. Fu, S. -H. Tsang and W. -C. Siu, "Quadtree decision for depth intra coding in 3D-HEVC by good feature," 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2016, pp. 1481-1485, doi: 10.1109/ICASSP.2016.7471923.
+
+C. -H. Fu, Y. -W. Zhao, **H. -B. Zhang**, Y. -L. Chan and W. -C. Siu, "Depth modelling mode decision for depth intra coding via good feature," 2017 IEEE International Conference on Image Processing (**ICIP**), 2017, pp. 4018-4022, doi: 10.1109/ICIP.2017.8297037.
