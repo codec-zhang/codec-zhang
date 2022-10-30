@@ -24,7 +24,7 @@
 
 ### H.266编解码器实现和优化
 
-和团队从0到1开发H.266编解码器，并持续优化H.266的编码性能和适用性。作为团队的核心成员，本人负责多项编码工具的实现和优化工作。
+和团队从0到1开发H.266编解码器，并持续优化H.266的编码性能和适用性。作为团队的核心成员，本人负责多项编码工具的实现和优化工作，主要包括Affine运动估计、Merge模式、Adaptive loop filter以及快速算法的设计和实现。
 主要成就：
          **编解码器成功商用** https://www.cnii.com.cn/rmydb/202107/t20210719_294494.html
          **MSU HD 赛道 2项指标世界第一** http://science.china.com.cn/2021-11/01/content_41726391.htm
@@ -43,7 +43,7 @@
 ## KLA-Tencor公司 （ 2016年10月 ~ 2019年10月 ）
 
 ### Blank wafer inspection 算法
-本人独立负责KLA-Tencor Candela CS系列产品线，wafer inspeciton算法的设计、实现和维护。主要通过图像处理技术，提升图像SNR，并对缺陷进行识别和分类。
+本人独立负责KLA-Tencor Candela CS系列产品线，无图案wafer inspeciton算法的设计、实现和维护。主要通过图像处理技术，提升图像SNR，并对缺陷进行识别和分类。
     
 # 技能清单
 
