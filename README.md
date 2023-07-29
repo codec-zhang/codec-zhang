@@ -12,9 +12,9 @@
  - 博士/南京理工大学
  - 6年工作经验
 # 教育经历
-香港理工大学  研究助理  2014.10 - 2016.04 主修：视频编解码研究
+香港理工大学  研究助理  2014.10 - 2016.04 主修：视频编解码
 
-南京理工大学  博士      2011.09 - 2017.06 专业：信息与通信系统   主修：通信、图像处理
+南京理工大学  博士      2011.09 - 2017.06 专业：信息与通信系统   主修：信号处理
 
 东北农业大学  学士      2007.09 - 2011.07 专业：信息与计算科学   主修：数学
 
@@ -22,22 +22,37 @@
 
 ## 腾讯公司 （ 2019年10月 ~ 至今 ）
 
-### H.266编解码器实现和优化
+### H.266编解码器实现和优化 （2020.01 - 2023.07）
 
-和团队从0到1开发H.266编解码器，并持续优化H.266的编码性能和适用性。作为团队的核心成员，本人负责多项编码工具的实现和优化工作，主要包括Affine运动估计、Merge模式、Adaptive loop filter以及快速算法的设计和实现。
-主要成就：
-         **编解码器成功商用** https://www.cnii.com.cn/rmydb/202107/t20210719_294494.html
-         **MSU HD 赛道 2项指标世界第一** http://science.china.com.cn/2021-11/01/content_41726391.htm
-         **MSU 4k赛道 12项指标世界第一** https://www.compression.ru/video/codec_comparison/2021/4k_report.html
+作为团队的核心成员，从0到1开发Tencent266编解码器，并持续优化其编码性能和适用性。本人负责多项编码工具的实现和优化工作，主要工作和成果，如下：
 
-### H.266标准制定 
+- 编码工具开发：独立负责Affine ME/Merge、BDOF、DMVR、MTS、LFNST、CCLM、MRL、ISP、LMCS、AMVR、CIIP、MMVD, 参与开发ALF和CCALF。累计提升编码性能10%。
 
-负责研究新编码技术，并形成提案，输出标准核心专利。
+- 快速算法开发：涉及Lookahead、ME、块划分、模式选择、ALF滤波、GPM 以及SIMD优化，累计加速编码速度8倍。
+
+- 编码性能提升：涉及Cutree、预分析、ME、lambda调整、ALF、前处理，累计提升编码效率15%。
+
+- 个人以及Tencent266的主要成就：
+
+  - **优秀员工3次 开源协同优秀个人奖1次**
+
+  - **Tencent266编解码器成功商用** https://www.cnii.com.cn/rmydb/202107/t20210719_294494.html
+         
+  - **2021 年 MSU HD赛道 Tencent266 2项指标世界第一** https://www.compression.ru/video/codec_comparison/2021/main_report.html
+
+  - **2021 年 MSU 4K赛道 Tencent266 12项指标世界第一** https://www.compression.ru/video/codec_comparison/2021/4k_report.html
+
+  - **2022 年 MSU HD合标赛道 Tencent266 15项指标全部世界第一** https://www.compression.ru/video/codec_comparison/2022/main_report.html
+
+
+### H.266视频编解码标准制定 （2019.10 - 2020.01）
+
+短时间内快速学习、研究新的编码技术以及VVC Spec草稿，并形成提案，输出标准核心专利。
 
 主要成果：
-       **接收提案** https://jvet-experts.org/ 
-       JVET-Q0505 AHG15: Improvement for Quantization Matrix Signaling  
-       JVET-R0326 AHG15: On Chroma Quantization Matrix Signalling
+- **接收提案2件，取得标准核心专利1件**
+  - JVET-Q0505 AHG15: Improvement for Quantization Matrix Signaling  
+  - JVET-R0326 AHG15: On Chroma Quantization Matrix Signalling
 
   
 ## KLA-Tencor公司 （ 2016年10月 ~ 2019年10月 ）
