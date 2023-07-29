@@ -57,8 +57,11 @@
   
 ## KLA-Tencor公司 （ 2016年10月 ~ 2019年10月 ）
 
-### Blank wafer inspection 算法
-本人独立负责KLA-Tencor Candela CS系列产品线，无图案wafer inspeciton算法的设计、实现和维护。主要通过图像处理技术，提升图像SNR，并对缺陷进行识别和分类。
+###  半导体晶圆缺陷检测算法开发
+负责KLA-Tencor，有/无图案Wafer缺陷算法开发，包括信号增强、图像配准、亮度补偿、自适应二值化、缺陷特征提取和分类。
+主要工作成果：
+
+- 创造性地引入Phase stretch transform (PST)边缘检测算法，将无图案晶圆外圈低SNR区域的Capture Rate提升了20%，且Purity Rate提升了10%。
     
 # 技能清单
 
